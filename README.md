@@ -55,4 +55,5 @@ To analyze sales data and identify total revenue, top-performing products, and h
 
 ![Output](output_1.png)
 ![Output](output_3.png)
+![Output](python_output.png)
 
