@@ -13,7 +13,15 @@ To analyze sales data and identify total revenue, top-performing products, and h
 ---
 
 ## 📂 Dataset  
-- Sample sales dataset (Excel file)  
+- Sample sales dataset (Excel file)
+
+
+---
+
+-## 📊 Output Preview
+
+![Output](output_1.png)
+![Output](output_2.png)
 
 ---
 
